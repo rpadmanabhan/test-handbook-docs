@@ -1,6 +1,8 @@
 # mdBook Quickstart 🦀 📙
 > Starter template for an online book or docs site made with Markdown and mdBook
 
+> Copied from : https://github.com/MichaelCurrin/mdbook-quickstart, all credit due to author.
+
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/mdbook-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/rpadmanabhan/test-handbook-docs/actions/workflows/main.yml?query=workflow:"GH+Pages+Deploy")
